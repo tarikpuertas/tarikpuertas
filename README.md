@@ -1,7 +1,8 @@
 - 👋 Olá, meu nome é Tárik Puertas
+-🎲 Atualmente trabalho como analista de dados, na IZE Gestão Empresarial
 - 👀 Estou interessado em me conectar com profissionais Engenheiros IA e cientistas de dados
 - 🌱 Atualmente, estou aprendendo Python e R
-- 💞️ Busco aprofundar meus conhecimentos através de parcerias e colaborações em projentos de Machine Learning e Ciência de Dados
+- 💞️ Busco aprofundar meus conhecimentos através de parcerias e colaborações em projetos de Machine Learning e Ciência de Dados
   
 
 <!---
